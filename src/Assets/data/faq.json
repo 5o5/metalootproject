@@ -1,0 +1,16 @@
+{
+    "faqArr": [
+        {
+            "question": "What is Metaloot?",
+            "answer": "Metaloot is a collection of 8,000 unique NFTs of NFTs. On release, anyone can claim Metaloot for 0.01 ETH. Each list contains prints of 6 random mints from 14 possible collections – Metaloot grants you ownership of the unique list not of listed NFTs. Metaloot is an unaudited project. Lists #1-7777 were claimable by anyone, and #7778 to #8000 were reserved for the contract deployer."
+        },
+        {
+            "question": "Why is Metaloot special?",
+            "answer": "Metaloot is the first of its kind – an NFT of NFTs. It grants the holder a list that when partially or completely fulfilled, will act as a certification of accomplishment. Some Metaloots contain rarer, more difficult to attain NFTs. While the NFT space is young, it grows exponentially. The original projects that have propelled NFTs into the spotlight will forever remain invaluable. But, where will history store the legends in this space? Who will own one of these invaluable certifications and fulfill their Metaloot?"
+        },
+        {
+            "question": "How can I value Metaloot?",
+            "answer": "Each Metaloot contains a list of mints that are ranked respective to their own collection. The ranks of each listed mint is extracted in the same method as rarity tools, and thus matches their rankings. Each Metaloot will contain a weighted composite score that correlates to the overall rarity of listed NFTs. For example, Cryptopunks will add more to the composite difficulty score of the Metaloot than Cool Cats., and Cool Cats will add more than Pudgy Penguins, etc… The value of your Metaloot may depend on score, or may depend on what the listed NFTs mean to you."
+        }
+    ]
+}
